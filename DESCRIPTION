@@ -1,0 +1,12 @@
+Package: mousr
+Type: Package
+Title: Track mouse weight over time
+Version: 0.0.0.9000
+Author@R: "Anna Camacho"
+Maintainer: Anna Camacho <ambinder@mail.usf.edu>
+Description: This package will allow the user to track mouse weight in ounces over time.
+    It will use tables and graphs for easy comparison between the subjects.
+Depends: R (>=3.1.0)
+License: CC0
+Encoding: UTF-8
+LazyData: true
